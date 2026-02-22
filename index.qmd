@@ -30,7 +30,7 @@ Doctoral candidate at the Technical University of Munich with a clinical medicin
 
 ## Research and Clinical Experience
 
-- **Resident training in Plastic Surgery, Klinikum Rechts der Isar, Technical University of Munich** (10/2025-Present)  
+- **Hospitation training in Plastic Surgery, Klinikum Rechts der Isar, Technical University of Munich** (10/2025-Present)  
   Focused on reduction mammoplasty, abdominoplasty, and fat grafting. Participating in clinical studies on: 1) complication rates across capsule excision techniques in breast reduction; 2) perioperative effects of prophylactic intravenous tranexamic acid in abdominoplasty.
 - **Bioinformatics and GWAS research on androgenetic alopecia and alopecia areata, Klinikum Rechts der Isar, Technical University of Munich** (04/2025-2026)  
   Conducting multi-omics integration and genetic association analyses to identify candidate pathways and potential therapeutic targets.
