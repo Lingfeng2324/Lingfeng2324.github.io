@@ -1,43 +1,37 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
-  repo-actions: [edit, issue]
-  
+  title: "Lingfeng Pan"
+  site-url: https://lingfeng2324.github.io
+  favicon: images/eibsee2.jpg
+  repo-url: https://github.com/Lingfeng2324/Lingfeng2324.github.io
+  repo-actions: [issue]
+
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      Lingfeng Pan<br>
+      [lingfengpan@outlook.com](mailto:lingfengpan@outlook.com)
     right: |
-      Made with [Quarto](https://quarto.org/)<br>
-    
-  navbar: 
+      [Google Scholar](https://scholar.google.com/citations?hl=en&user=1Wkzyd8AAAAJ&view_op=list_works&sortby=pubdate)<br>
+      [ORCID](https://orcid.org/0009-0004-5846-3216)
+
+  navbar:
     background: "#A9CCE3"
     search: true
-    right: 
+    right:
       - text: "Home"
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
 
 format:
   html:
     theme: styles.scss
-    toc: true            # 启用目录
-    toc-position: right  # 将目录放置在页面的右侧
-    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
+    toc: true
+    toc-position: right
+    toc-depth: 3
