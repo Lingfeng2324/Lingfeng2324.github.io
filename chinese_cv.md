@@ -1,0 +1,73 @@
+﻿
+## 基本信息
+
+- 姓名：潘凌峰（Lingfeng Pan）
+- 邮箱：<lingfengpan@outlook.com>
+- Google Scholar：<https://scholar.google.com/citations?hl=en&user=1Wkzyd8AAAAJ&view_op=list_works&sortby=pubdate>
+- ORCID：<https://orcid.org/0009-0004-5846-3216>
+
+## 教育背景
+
+- 2023.09-至今：慕尼黑工业大学（Technical University of Munich），Department of Plastic and Hand Surgery, Klinikum Rechts der Isar，博士研究生
+- 2020.09-2023.07：吉林大学白求恩第三医院，整形外科专业型医学硕士
+- 2015.09-2020.07：吉林大学临床医学5+3，白求恩临床医学部医学学士
+
+## 研究方向
+
+- 整形外科再生医学：PRP、HPS 等自体生物制剂
+- 毛发疾病与皮肤疾病的生物信息学与 GWAS 研究
+- 创面修复与瘢痕形成机制
+
+## 个人优势
+
+- 具备“临床-实验-数据分析”一体化训练背景，能够从临床问题出发设计基础与转化研究。
+- 同时推进整形外科临床学习与科研产出，研究主题持续聚焦毛发与再生医学方向。
+- 可独立开展系统综述、Mendelian randomization、GWAS 与实验研究的协同分析，兼顾机制探索与临床可转化性。
+
+## 科研与临床经历
+
+- 2025.10-至今：慕尼黑工业大学 Klinikum Rechts der Isar 整形外科，住院医师临床学习  
+  重点学习巨乳缩小、腹壁整形、脂肪移植等手术。参与临床研究：1）巨乳缩小术中不同包膜切除方式的并发症比较；2）预防性静脉注射氨甲环酸对腹部整形术围手术期效果的影响。
+- 2025.04-2026：慕尼黑工业大学 Klinikum Rechts der Isar，毛发疾病生物信息学与 GWAS 研究  
+  围绕雄激素性脱发与斑秃开展多组学整合与遗传关联分析，推进候选通路与潜在干预靶点筛选。
+- 2024.05-2025.10：慕尼黑工业大学 Klinikum Rechts der Isar 整形外科实验室  
+  开展缺氧诱导血清（HPS）与富血小板血浆（PRP）疗效对比研究，探索 HPS 在再生医学中的应用场景与转化路径。
+- 2023.10-2024.06：Helmholtz Munich（亥姆霍兹慕尼黑研究中心）  
+  接受生物信息学与全基因组关联研究（GWAS）科研训练，建立遗传流行病学分析与结果解释能力。
+- 2021.06-2023.06：吉林大学白求恩第三医院整形外科  
+  开展富血小板血浆（PRP）治疗雄激素性脱发相关研究，积累毛发疾病临床与转化研究经验。
+- 2021.01-2022.03：感染创面 PRP 水凝胶敷料研发  
+  国家自然科学基金项目，吉林大学公共卫生学院放射生物学系。开发 PVA/PHMB/PRP 复合水凝胶敷料，兼具抗菌与促愈合效果，并在全层皮肤缺损感染模型中验证。
+- 2019.09-2020.05：东北地区慢性病流行病学调查  
+  国家重点研发计划，吉林大学公共卫生学院流行病与卫生统计学系。参与队列研究设计、现场数据采集与人群数据分析。
+- 2018.01-2019.05：光老化皮肤中透明质酸表达变化研究  
+  负责分子生物学实验与数据处理。
+
+## 论文发表
+
+1. Li C, **Pan L**. Overlooking Study Quality Undermines Conclusions: A Call for Rigorous Bias Assessment in Surgical Meta-analyses. **Aesthetic Plast Surg**. 2026 Jan 20. doi: 10.1007/s00266-026-05665-x. Epub ahead of print. PMID: 41559391.
+2. **Pan L**, Moog P, Li C, Steinbacher L, Knoedler S, Kukrek H, Dornseifer U, Machens H-G, Jiang J. Exploring the Association Between Multidimensional Dietary Patterns and Non-Scarring Hair Loss Using Mendelian Randomization. **Nutrients**. 2025;17(15):2569. doi: 10.3390/nu17152569.
+3. **Pan L**, Li C. Comment on "Genetic and environmental factors affecting hair density in East Asian populations". **Br J Dermatol**. Published online June 18, 2025. doi: 10.1093/bjd/ljaf231.
+4. Li C, Shen K, **Pan L**. Exploring the causal relationship between GLP-1R agonists and diseases related to the thyroid and parathyroid: a mendelian randomization study. **J Diabetes Metab Disord**. 2025;24(1):64.
+5. **Pan L**, Li C. Comment on "An international multicenter, retrospective cohort study of 203 patients with pediatric androgenetic alopecia". **J Am Acad Dermatol**. Published online April 24, 2025.
+6. **Pan L**, Li C. Exosome Therapy for Androgenetic Alopecia: Balancing Potential with Standardization Challenges. **Aesthetic Plast Surg**. Published online May 20, 2025.
+7. **Pan L**, Li C, Liang Z, Shi J. Exploring the association between skin microbiota and inflammatory skin diseases: a two-sample Mendelian randomization analysis. **Arch Dermatol Res**. 2024;316(10):677.
+8. **Pan L**, Zhang L, Fu J, Shen K, Zhang G. Integrated transcriptome sequencing and weighted gene co-expression network analysis reveals key genes of papillary thyroid carcinomas. **Heliyon**. 2024;10(7):e27928.
+9. **Pan L**, Li C, Wang Z, Yang L, Zhang L. Preparation of an antibacterial dressing for simultaneous delivery of polyhexamethylene biguanide and platelet-rich plasma, and evaluation of the dressing's ability to promote infected skin repair. **Biochemical Engineering Journal**. 2022:108626.
+10. **Pan L**, Qin H, Li C, Yang L, Li M, Kong J, et al. Safety and efficacy of botulinum toxin type A in preventing and treating scars in animal models: A systematic review and meta-analysis. **International Wound Journal**. 2021. doi: 10.1111/iwj.13673.
+11. **Pan L**, Qin H, Li C, Zhang G, Yang L, Zhang L. Efficacy of the Neodymium-Doped Yttrium Aluminum Garnet Laser in the Treatment of Keloid and Hypertrophic Scars: A Systematic Review and Meta-analysis. **Aesthetic Plast Surg**. 2022. doi: 10.1007/s00266-021-02716-3.
+12. Liang Z*, **Pan L**\*, Shi J, Zhang L. C1QA, C1QB, and GZMB are novel prognostic biomarkers of skin cutaneous melanoma relating tumor microenvironment. **Sci Rep**. 2022;12:20460. doi: 10.1038/s41598-022-24353-9.
+13. Li C, **Pan L**, Yang L, Kong J, Zhang L. An umbrella review of the use of platelet-rich plasma in the treatment of androgenetic alopecia. **J Cosmet Dermatol**. 2023. doi: 10.1111/jocd.15617.
+14. Shi J, Liang Z, Liu Z, et al. Identification of Novel Proteins Mediating Causal Association Between Smoking and Essential Hypertension: A Mendelian Randomization Study. **J Am Heart Assoc**. 2024;13(23):e036202.
+15. Shi J, Liu S, Guo Y, Liu S, Xu J, **Pan L**, et al. Association between eNOS rs1799983 polymorphism and hypertension: a meta-analysis involving 14,185 cases and 13,407 controls. **BMC Cardiovasc Disord**. 2021;21(1):385. doi: 10.1186/s12872-021-02192-2.
+16. Shi J, Guo Y, Li Z, Liang Z, **Pan L**, Yu Y, et al. Sociodemographic and behavioral influences on multimorbidity among adult residents of northeastern China. **BMC Public Health**. 2022;22(1):342. doi: 10.1186/s12889-022-12722-y.
+17. Shao A, Shi J, Liang Z, **Pan L**, Zhu W, Liu S, Xu J, Guo Y, Cheng Y, Qiao Y. Meta-analysis of the association between Apolipoprotein E polymorphism and risks of myocardial infarction. **BMC Cardiovasc Disord**. 2022 Mar 24;22(1):126. doi: 10.1186/s12872-022-02566-0.
+18. Yang L, **Pan L**, Qin H, Zhang L. Research progress of hypoxia-induced HIF-1 in pathological scars. **Chinese Journal of Aesthetic Plastic Surgery**. 2021;32(07):427-430.
+
+## 技能
+
+- 细胞培养：L929 细胞、皮肤成纤维细胞、瘢痕疙瘩细胞、HUVEC、BT549 等
+- 表型检测：qPCR、Western blot、IHC、Masson、ELISA、流式细胞术
+- 软件：Origin、GraphPad Prism、ImageJ、SPSS、Adobe Photoshop、Adobe Illustrator
+- 英语：IELTS Academic 6.5
+
